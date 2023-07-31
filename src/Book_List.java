@@ -8,7 +8,7 @@ public class Book_List {
         List<String> result = new ArrayList<>();
 
         for (String name : names) {
-            if (name.contains("ノーゲーム")) {
+            if (name.contains("ライアー")) {
                 result.add(name);
             }
         }
